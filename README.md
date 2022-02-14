@@ -1,4 +1,4 @@
-# figma-avatars
+
 # figma-avatars
 <p align="center">
 <img src="avatar cover.jpg">
